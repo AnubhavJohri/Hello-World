@@ -9,6 +9,10 @@ cin>>t;
 while(t--)
 {
   cout<<t<<endl;
+  int x=0,y=0;
+  cin>>x>>y;
+  int sum=0;
+  sum=x+y;
 }
 cout<<a<<endl;
 }
