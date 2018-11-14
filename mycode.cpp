@@ -13,6 +13,8 @@ while(t--)
   cin>>x>>y;
   int sum=0;
   sum=x+y;
+  cout<<sum<<endl;
+  cout<<"sum="<<sum<<endl;
 }
 cout<<a<<endl;
 }
