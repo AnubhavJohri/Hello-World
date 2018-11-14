@@ -3,6 +3,8 @@ yellow
 green
 purple
 red
+riddim        
 black
 white
+magenta
 
