@@ -3,8 +3,9 @@ yellow
 green
 purple
 red
+lite
 riddim        
 black
 white
 magenta
-
+green
